@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "KSDoo <dky1754@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-router-dom": "^4.3.1"
+  }
 }
